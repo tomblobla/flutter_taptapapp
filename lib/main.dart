@@ -107,7 +107,7 @@ class _MyAppState extends State<MyApp> {
         title: 'TapTap',
         home: Scaffold(
             appBar: AppBar(
-                title: Center(child: Text('Traffic light')),
+                title: Center(child: Text('Taptap')),
                 backgroundColor: Colors.teal[400]),
             backgroundColor: Colors.teal[50],
             body: Center(
